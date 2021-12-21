@@ -28,6 +28,6 @@ selfeducation HTML and CSS and coding on:
 * [https://estrukov.github.io/Botanikashop/] (online shop, created on the marathon in HTMLAcademy)
 * [https://estrukov.github.io/maketitshop/] (created by free layout)
 -----
-##Languages
+## Languages
 * Russian (native)
 * English (elementary)
