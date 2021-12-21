@@ -5,7 +5,6 @@ Trainee Frontend developer
 * tel: +375 29 574 81 69
 * e-mail: Jhezer1991@gmail.com
 * GitHub: EStrukov
-
 ------
 ## Presonal details:
 * Born: 29 october 1991, 30 years
@@ -28,3 +27,7 @@ selfeducation HTML and CSS and coding on:
 * [https://estrukov.github.io/portfolio/] (html page portfolio, testing work in HTMLAcademy)
 * [https://estrukov.github.io/Botanikashop/] (online shop, created on the marathon in HTMLAcademy)
 * [https://estrukov.github.io/maketitshop/] (created by free layout)
+-----
+##Languages
+* Russian (native)
+* English (elementary)
