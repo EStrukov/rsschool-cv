@@ -7,20 +7,24 @@ Trainee Frontend developer
 * GitHub: EStrukov
 
 ------
-### Presonal details:
+## Presonal details:
 * Born: 29 october 1991, 30 years
+* live in Minsk
 -----
-#### Experiens
+## Experiens
 * has not experiens working Frontend developer
 * Economist
 ------
-##### Skills:
+## Skills:
 selfeducation HTML and CSS and coding on:
 * HTML
 * CSS
 * Bootstrap
 -----
-###### My trial works:
+## Code:
+
+-----
+## My trial works:
 * [https://estrukov.github.io/portfolio/] (html page portfolio, testing work in HTMLAcademy)
 * [https://estrukov.github.io/Botanikashop/] (online shop, created on the marathon in HTMLAcademy)
 * [https://estrukov.github.io/maketitshop/] (created by free layout)
