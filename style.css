@@ -140,13 +140,13 @@ main>p {
 .email {
   padding: 5px;
   padding-left: 25px;
-  background: url(../rsschool-cv/img/email.svg) 0 50% / 20px 20px no-repeat;
+  background: url(./assets/svg/email.svg) 0 50% / 20px 20px no-repeat;
 }
 
 .phone {
   padding: 5px;
   padding-left: 25px;
-  background: url(../rsschool-cv/img/phone.svg) 0 50% / 20px 20px no-repeat;
+  background: url(./assets/svg/phone.svg) 0 50% / 20px 20px no-repeat;
 }
 
 h2 {
