@@ -22,7 +22,9 @@ selfeducation HTML and CSS and coding on:
 * Bootstrap
 -----
 ## Code:
-
+function multiply(a, b){
+return a * b
+}
 -----
 ## My trial works:
 * [https://estrukov.github.io/portfolio/] (html page portfolio, testing work in HTMLAcademy)
