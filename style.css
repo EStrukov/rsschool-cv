@@ -173,15 +173,15 @@ main>p {
 }
 
 .contact {
+  margin-bottom: 20px;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: space-around;
-  gap: 50px;
+  gap: 20px;
 }
 
-.contact a {
-  display: block;
-  margin-bottom: 10px;
+.contact li {
+  list-style: none;
 }
 
 .email {
@@ -194,6 +194,12 @@ main>p {
   padding: 5px;
   padding-left: 25px;
   background: url(./assets/svg/phone.svg) 0 50% / 20px 20px no-repeat;
+}
+
+.telegram {
+  padding: 5px;
+  padding-left: 25px;
+  background: url(./assets/svg/telegram.svg) 0 50% / 25px 25px no-repeat;
 }
 
 h2 {
@@ -284,7 +290,6 @@ footer div {
 footer div a {
   border: 1px solid black;
   text-align: center;
-  color: aliceblue;
 }
 
 footer a:hover {
